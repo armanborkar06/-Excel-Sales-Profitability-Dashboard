@@ -60,7 +60,7 @@ The dashboard helps users quickly understand:
 
 ## 📷 Dashboard Preview
 
-![Excel Sales & Profitability Dashboard](executive.png)
+![Excel Sales & Profitability Dashboard](executives.png)
 
 ## 💼 Skills Demonstrated
 
